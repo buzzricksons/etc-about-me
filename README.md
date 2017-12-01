@@ -11,7 +11,7 @@ https://www.facebook.com/buzzricksons
 https://www.flickr.com/photos/buzzricksons/
 
 ## LinkedIn
-https://www.linkedin.com/in/hyungcheol-kim-653224b1/
+https://www.linkedin.com/in/hyungcheol-kim/
 
 ## Qiita
 https://qiita.com/hcgoon
