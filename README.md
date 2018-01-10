@@ -18,4 +18,4 @@ https://qiita.com/hcgoon
 
 # Githubレポジトリについて
 - `study-xxx` : 個人で勉強した内容のレポジトリ
-- `sample-xxx` : 勉強した内容で実際に作ってみたもの
+- `example-xxx` : 勉強した内容で実際に作ってみたもの
