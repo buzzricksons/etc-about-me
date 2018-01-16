@@ -13,9 +13,6 @@ https://www.flickr.com/photos/buzzricksons/
 ## LinkedIn
 https://www.linkedin.com/in/hyungcheol-kim/
 
-## Qiita
-https://qiita.com/hcgoon
-
-# Githubレポジトリについて
-- `study-xxx` : 個人で勉強した内容のレポジトリ
-- `example-xxx` : 勉強した内容で実際に作ってみたもの
+# About Github repository
+- `study-xxx` : Repository for private study.
+- `example-xxx` : Repository for example source by myself.
