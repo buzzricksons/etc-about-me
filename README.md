@@ -1,6 +1,9 @@
 # AboutMe
 https://sites.google.com/site/hcgoon/who-am-i
 
+## Tumblr
+https://www.tumblr.com/blog/buzzricksons
+
 ## My Wiki
 https://sites.google.com/site/hcgoon/
 
@@ -16,3 +19,4 @@ https://www.linkedin.com/in/hyungcheol-kim/
 # About Github repository
 - `study-xxx` : Repository for private study.
 - `example-xxx` : Repository for example source by myself.
+- `etc-xxx` : etc....
