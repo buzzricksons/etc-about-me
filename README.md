@@ -1,9 +1,6 @@
 # AboutMe
 https://sites.google.com/site/hcgoon/who-am-i
 
-## Tumblr
-https://www.tumblr.com/blog/buzzricksons
-
 ## My Wiki
 https://sites.google.com/site/hcgoon/
 
